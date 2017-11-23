@@ -96,7 +96,7 @@ googleAnalytics = ""
 
     [[params.services.row.list]]
       icon = "fa-laptop"
-      title = Gene Expression Mapping"
+      title = "Gene Expression Mapping"
       description = "We can map the genetic architecture using your data, as well as conduct a genotype/phenotype association using Genome Wide Association Studies (GWAS)."
       url = "#"
 
